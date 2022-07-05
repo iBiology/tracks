@@ -1,3 +1,11 @@
+hub dsRIP
+shortLabel dsRIP
+longLabel dsRIP
+useOneFile on
+email fei.yuan@bcm.edu
+
+genome mm10
+
 track dsRIP
 type bigWig
 shortLabel dsRIP
