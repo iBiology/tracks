@@ -6,11 +6,6 @@ email fei.yuan@bcm.edu
 
 genome mm10
 
-track dsRIP
-type bigWig
-shortLabel dsRIP
-longLabel dsRIP
-
 track ComboIP
         bigDataUrl https://raw.githubusercontent.com/iBiology/tracks/blob/main/Combo-7_IP.Matn4.bw
         shortLabel Combo IP
