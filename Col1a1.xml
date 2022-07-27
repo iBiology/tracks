@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Session genome="mm10" hasGeneTrack="true" hasSequenceTrack="true" version="8">
+    <Resources>
+        <Resource path="Vehicle-2_Col1a1_IP.bw"/>
+<Resource path="Vehicle-2_Col1a1_Input.bw"/>
+<Resource path="8866-2_Col1a1_IP.bw"/>
+<Resource path="8866-2_Col1a1_Input.bw"/>
+<Resource path="Doc-2_Col1a1_IP.bw"/>
+<Resource path="Doc-2_Col1a1_Input.bw"/>
+<Resource path="Combo-7_Col1a1_IP.bw"/>
+<Resource path="Combo-7_Col1a1_Input.bw"/>
+    </Resources>
+    <Panel height="494" name="DataPanel" width="1263">
+        
+<Track attributeKey="Vehicle-2_Col1a1_IP.bw" autoScale="false" autoscaleGroup="3" fontSize="14" height="60" 
+    id="Vehicle-2_Col1a1_IP.bw" name="Vehicle-2 IP" renderer="BAR_CHART" 
+    visible="true" windowFunction="mean">
+</Track>
+
+
+<Track attributeKey="Vehicle-2_Col1a1_Input.bw" autoScale="false" autoscaleGroup="3" fontSize="14" height="60" 
+    id="Vehicle-2_Col1a1_Input.bw" name="Vehicle-2 INPUT" renderer="BAR_CHART" 
+    visible="true" windowFunction="mean">
+</Track>
+
+
+<Track attributeKey="8866-2_Col1a1_IP.bw" autoScale="false" autoscaleGroup="3" fontSize="14" height="60" 
+    id="8866-2_Col1a1_IP.bw" name="8866-2 IP" renderer="BAR_CHART" 
+    visible="true" windowFunction="mean">
+</Track>
+
+
+<Track attributeKey="8866-2_Col1a1_Input.bw" autoScale="false" autoscaleGroup="3" fontSize="14" height="60" 
+    id="8866-2_Col1a1_Input.bw" name="8866-2 INPUT" renderer="BAR_CHART" 
+    visible="true" windowFunction="mean">
+</Track>
+
+
+<Track attributeKey="Doc-2_Col1a1_IP.bw" autoScale="false" autoscaleGroup="3" fontSize="14" height="60" 
+    id="Doc-2_Col1a1_IP.bw" name="Doc-2 IP" renderer="BAR_CHART" 
+    visible="true" windowFunction="mean">
+</Track>
+
+
+<Track attributeKey="Doc-2_Col1a1_Input.bw" autoScale="false" autoscaleGroup="3" fontSize="14" height="60" 
+    id="Doc-2_Col1a1_Input.bw" name="Doc-2 INPUT" renderer="BAR_CHART" 
+    visible="true" windowFunction="mean">
+</Track>
+
+
+<Track attributeKey="Combo-7_Col1a1_IP.bw" autoScale="false" autoscaleGroup="3" fontSize="14" height="60" 
+    id="Combo-7_Col1a1_IP.bw" name="Combo-7 IP" renderer="BAR_CHART" 
+    visible="true" windowFunction="mean">
+</Track>
+
+
+<Track attributeKey="Combo-7_Col1a1_Input.bw" autoScale="false" autoscaleGroup="3" fontSize="14" height="60" 
+    id="Combo-7_Col1a1_Input.bw" name="Combo-7 INPUT" renderer="BAR_CHART" 
+    visible="true" windowFunction="mean">
+</Track>
+
+    </Panel>
+    <Panel height="607" name="FeaturePanel" width="1263">
+        <Track attributeKey="Reference sequence" clazz="org.broad.igv.track.SequenceTrack" fontSize="10" height="53" id="Reference sequence" name="Reference sequence" visible="true"/>
+        <Track altColor="0,0,178" attributeKey="Refseq genes" clazz="org.broad.igv.track.FeatureTrack" color="0,0,178" colorScale="ContinuousColorScale;0.0;406.0;255,255,255;0,0,178" fontSize="10" height="53" id="mm10_genes" name="Refseq genes" visible="true"/>
+    </Panel>
+    <PanelLayout dividerFractions="0.44765342960288806"/>
+    <HiddenAttributes>
+        <Attribute name="DATA FILE"/>
+        <Attribute name="DATA TYPE"/>
+        <Attribute name="NAME"/>
+    </HiddenAttributes>
+</Session>

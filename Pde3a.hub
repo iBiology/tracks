@@ -1,0 +1,72 @@
+hub dsRIP-Pde3a
+shortLabel dsRIP-Pde3a
+longLabel dsRIP-Pde3a
+useOneFile on
+email fei.yuan@bcm.edu
+
+genome mm10
+
+
+track Vehicle-3_IP
+bigDataUrl https://raw.githubusercontent.com/iBiology/tracks/main/Vehicle-3_Pde3a_IP.bw
+shortLabel Vehicle-3 IP
+longLabel Vehicle-3 IP
+type bigWig
+color 0,100,0
+
+
+track Vehicle-3_INPUT
+bigDataUrl https://raw.githubusercontent.com/iBiology/tracks/main/Vehicle-3_Pde3a_Input.bw
+shortLabel Vehicle-3 INPUT
+longLabel Vehicle-3 INPUT
+type bigWig
+color 0,100,0
+
+
+track 8866-2_IP
+bigDataUrl https://raw.githubusercontent.com/iBiology/tracks/main/8866-2_Pde3a_IP.bw
+shortLabel 8866-2 IP
+longLabel 8866-2 IP
+type bigWig
+color 0,100,0
+
+
+track 8866-2_INPUT
+bigDataUrl https://raw.githubusercontent.com/iBiology/tracks/main/8866-2_Pde3a_Input.bw
+shortLabel 8866-2 INPUT
+longLabel 8866-2 INPUT
+type bigWig
+color 0,100,0
+
+
+track Doc-6_IP
+bigDataUrl https://raw.githubusercontent.com/iBiology/tracks/main/Doc-6_Pde3a_IP.bw
+shortLabel Doc-6 IP
+longLabel Doc-6 IP
+type bigWig
+color 0,100,0
+
+
+track Doc-6_INPUT
+bigDataUrl https://raw.githubusercontent.com/iBiology/tracks/main/Doc-6_Pde3a_Input.bw
+shortLabel Doc-6 INPUT
+longLabel Doc-6 INPUT
+type bigWig
+color 0,100,0
+
+
+track Combo-7_IP
+bigDataUrl https://raw.githubusercontent.com/iBiology/tracks/main/Combo-7_Pde3a_IP.bw
+shortLabel Combo-7 IP
+longLabel Combo-7 IP
+type bigWig
+color 0,100,0
+
+
+track Combo-7_INPUT
+bigDataUrl https://raw.githubusercontent.com/iBiology/tracks/main/Combo-7_Pde3a_Input.bw
+shortLabel Combo-7 INPUT
+longLabel Combo-7 INPUT
+type bigWig
+color 0,100,0
+
